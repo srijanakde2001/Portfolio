@@ -1,0 +1,1 @@
+This is a portfolio of me(Srijanak De). This is my first attempt at creating a web page using only html and css. All the html documents are visitable from each one of them using the buttons in the respective pages. Although it is recommended to start with "About" and then continue in the order of the buttons.  
